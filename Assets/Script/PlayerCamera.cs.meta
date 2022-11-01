@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 7f6b5b8f8b7a5d24aae1e0de39557e4f
+timeCreated: 1468008265
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerRigid: {instanceID: 0}
+  - targetCamera: {instanceID: 0}
+  - indicator: {instanceID: 0}
+  - targetIndicator: {instanceID: 0}
+  - cube: {instanceID: 0}
+  - cubeTransform: {instanceID: 0}
+  - templateBasic: {fileID: 11464018, guid: 6ce6a8c19efa968448c15836076eafe7, type: 2}
+  - templateMetal: {fileID: 11408716, guid: 545e152f009182c4b9f585c58e92ad96, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
